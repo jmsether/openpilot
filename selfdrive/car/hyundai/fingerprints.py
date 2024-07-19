@@ -983,6 +983,7 @@ FW_VERSIONS = {
     ],
     (Ecu.adas, 0x738, None): [
       b'\xf1\x8b $\x03\x16',
+      b'\xf1\x00NE1NFBL5 1.00 1.03 231218',
     ],
   },
   CAR.HYUNDAI_IONIQ_6: {
